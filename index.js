@@ -13,7 +13,7 @@ function johnLennonFacts(factsArr) {
   }
   return factsArrExclamation;
 }
-/* 
+/*
   describe('johnLennonFacts', function(){
     it("returns an array of strings with exclamation points", function() {
       expect(johnLennonFacts([
